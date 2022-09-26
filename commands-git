@@ -1,0 +1,7 @@
+cloner un repo :
+git clone https://github.com/thomas-spinec/git-begins.git
+
+Les commandes git :
+git add <nom du fichier> 
+git commit -m "commentaire permettant d'identifier la version"
+git push origin mains
