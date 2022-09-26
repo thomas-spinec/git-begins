@@ -7,6 +7,4 @@ git commit -m "commentaire permettant d'identifier la version"
 git push origin mains
 
 Pour pull:
-git pull <branch>
-dans notre cas : 
-git pull main
+git pull
