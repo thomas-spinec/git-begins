@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cloner un repo :
 git clone https://github.com/thomas-spinec/git-begins.git
 
@@ -18,3 +19,4 @@ git checkout <nom_de_la_branch>
 
 pour faire les deux en même temps (créer une branche et y basculer)
 git checkout -b <nom_de_la_branch>
+
